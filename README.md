@@ -1,6 +1,6 @@
 ## David Bernardi 👋
 
-Meu nome é David Bernardi. Atualmente, atuo como assistente administrativo, mas sou apaixonado pela área de tecnologia, especialmente por desenvolvimento frontend e UI Design. Além disso, não resisto a um bom café e um doce para acompanhar.
+Meu nome é David Bernardi. Atualmente, atuo como assistente administrativo, mas sou apaixonado pela área de tecnologia, especialmente por desenvolvimento FrontEnd e UI Design. Além disso, não resisto a um bom café e um doce para acompanhar.
 
 Estou cursando Ciência da Computação e busco sempre aprender mais sobre tecnologia. Apesar de minha experiência ser na área administrativa, minha paixão por inovação me motiva a expandir meus conhecimentos e aplicar soluções criativas tanto na minha rotina profissional quanto nos projetos em que me envolvo.
 
